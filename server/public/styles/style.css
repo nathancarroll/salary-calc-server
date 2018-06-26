@@ -1,0 +1,8 @@
+.overBudget {
+    background-color: red;
+}
+
+.error {
+    visibility: hidden;
+    color: red;
+}
